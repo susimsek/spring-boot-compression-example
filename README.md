@@ -1,4 +1,4 @@
-# Spring Boot Compression Example
+# Spring Boot Compression Example(Decompression Zip,7-Zip,Rar,Tar)
 > Spring Boot Compression Rest Api Example
 >
 <img src="https://github.com/susimsek/spring-boot-compression-example/blob/main/images/spring-boot-compression-example.png" alt="Spring Boot Compression Example" width="100%" height="100%"/> 
